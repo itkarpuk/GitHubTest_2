@@ -3,3 +3,5 @@ I don't know what I need to write here?
 add extra lines for ft#1001
 second commit.
 new line for third commit.
+
+line for stash.
